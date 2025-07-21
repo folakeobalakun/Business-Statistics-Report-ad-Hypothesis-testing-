@@ -13,3 +13,8 @@ It has three linked objectives:
 
 By integrating descriptive and inferential statistics, the study aims to identify where influence is concentrated, how engagement patterns vary, and which factors best explain a channel’s follower base—insights that inform data‑driven influencer selection and content strategy.
 
+## 📁 Contents
+
+| Folder | Description | File |
+|--------|-------------|------|
+| `data/` | Raw survey data (.xlsx) | [Top 200 Youtubers.xlsx](https://github.com/folakeobalakun/Business-Statistics-Report-ad-Hypothesis-testing-/blob/main/Top_200_youtubers%20(1)%20-%20another%20cleaned%20copy.xls) |
