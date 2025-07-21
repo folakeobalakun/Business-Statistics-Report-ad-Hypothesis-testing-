@@ -18,3 +18,5 @@ By integrating descriptive and inferential statistics, the study aims to identif
 | Folder | Description | File |
 |--------|-------------|------|
 | `data/` | Raw survey data (.xlsx) | [Top 200 Youtubers.xlsx](https://github.com/folakeobalakun/Business-Statistics-Report-ad-Hypothesis-testing-/blob/main/Top_200_youtubers%20(1)%20-%20another%20cleaned%20copy.xls) |
+
+<img width="452" height="199" alt="image" src="https://github.com/user-attachments/assets/4b4a97f3-d204-4cbe-b904-0a22227684da" />
