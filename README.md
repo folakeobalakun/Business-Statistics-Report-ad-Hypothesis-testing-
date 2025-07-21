@@ -24,6 +24,6 @@ By integrating descriptive and inferential statistics, the study aims to identif
 The Standard deviation and variance are a measure of how far the data are from the mean. 
 A small standard deviation indicates that the values in the data set are clustered around the mean, whereas a large standard deviation indicates that the values in the data set are far from the mean. In Table 1 above followers and likes have higher variance which means the values are more are not uniform i.e.; they are varied values.
 
-<img width="452" height="171" alt="image" src="https://github.com/user-attachments/assets/129e5eca-7da6-4b00-889b-e7bfc5177248" />
+<img width="452" height="250" alt="image" src="https://github.com/user-attachments/assets/129e5eca-7da6-4b00-889b-e7bfc5177248" />
 
 The Main video category with the highest number of followers, The category with the highest number of followers is music with 2.12Billion followers and it is followed by Entertainment with 1.648Billion followers, the third main video category is Education with 0.48Billion (479Million). This shows that people would rather follow music and entertainment channels compared to Education channels.
