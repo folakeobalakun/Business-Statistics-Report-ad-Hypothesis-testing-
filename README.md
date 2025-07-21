@@ -10,3 +10,6 @@ It has three linked objectives:
 
 - Test for significant differences in audience behaviour: applying a one‑way ANOVA to determine whether average 1‑day, 3‑day and 7‑day view counts differ across countries. 
 - Model what drives popularity—running multiple linear regression to discover which engagement metrics most strongly predict subscriber counts, providing actionable insight for marketers and creators. 
+
+By integrating descriptive and inferential statistics, the study aims to identify where influence is concentrated, how engagement patterns vary, and which factors best explain a channel’s follower base—insights that inform data‑driven influencer selection and content strategy.
+
